@@ -51,23 +51,7 @@ Building the orchestration layer for modern urban transit. GoNest automates dail
 ## ⚙️ Side Projects & Open Source
 *Beyond GoNest, I actively build utilities, experiment with AI tooling, and participate in high-stakes builds.*
 
-*   **[Project Name/Hyperlink]** — Brief 1-line impact statement (e.g., An open-source tool parsing spatial data or an AI agent handling dynamic task scheduling).
-*   **Hackathons & R&D:** Building functional prototypes pushing the boundaries of autonomous AI workflows and full-stack performance.
-
----
-
-## 📊 Performance Metrics
-
-<p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=your-username&theme=darkhub&column=7&margin-w=15&no-bg=true" alt="Trophies" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=darkhub&hide_border=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=darkhub&hide_border=true&background=0d1117" width="48%" alt="Contribution Streak" />
-</p>
+*   **[Task Arrangement App](https://github.com/your-username/task-arrangement-app)** — A high-efficiency task orchestration engine designed to streamline workflow scheduling and maximize daily execution metrics.
 
 ---
 
@@ -75,8 +59,8 @@ Building the orchestration layer for modern urban transit. GoNest automates dail
 
 I am always looking to sync with other founders, technical engineers, and potential collaborators working on hard problems in logistics, automation, and AI.
 
-*   **Inquiries:** [your.email@example.com](mailto:your.email@example.com)
-*   **Professional Network:** [LinkedIn](https://linkedin.com/in/your-profile)
+*   **Inquiries:** [syed424892@gmail.com](mailto:syed424892@gmail.com)
+*   **Professional Network:** [LinkedIn](https://www.linkedin.com/in/syed-haseeb-bukhari-a6a6961a8)
 *   **Codebase:** [Explore Repositories](https://github.com/your-username?tab=repositories)
 
 <p align="right">
