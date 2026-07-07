@@ -2,7 +2,31 @@
 
 ### Founder & Full-Stack Engineer
 I engineer production-grade web systems, map-centric architectures, and intelligent automation. I approach software from a founder's perspective—focusing on scalability, rapid execution, and building products people actually use.
+---
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/syed-haseeb-bukhari-a6a6961a8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/its_Haseebexe" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/_h4seeb._/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:syed424892@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## ⚡ Current Main Focus
@@ -59,9 +83,6 @@ Building the orchestration layer for modern urban transit. GoNest automates dail
 
 I am always looking to sync with other founders, technical engineers, and potential collaborators working on hard problems in logistics, automation, and AI.
 
-*   **Inquiries:** [syed424892@gmail.com](mailto:syed424892@gmail.com)
-*   **Professional Network:** [LinkedIn](https://www.linkedin.com/in/syed-haseeb-bukhari-a6a6961a8)
-*   **Codebase:** [Explore Repositories](https://github.com/your-username?tab=repositories)
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=2ea44f&style=flat-square" alt="Visitor Count" />
