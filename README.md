@@ -75,7 +75,7 @@ Building the orchestration layer for modern urban transit. GoNest automates dail
 ## ⚙️ Side Projects & Open Source
 *Beyond GoNest, I actively build utilities, experiment with AI tooling, and participate in high-stakes builds.*
 
-*   **[Task Arrangement App](https://github.com/your-username/task-arrangement-app)** — A high-efficiency task orchestration engine designed to streamline workflow scheduling and maximize daily execution metrics.
+*   **[Task Arrangement App](https://github.com/Syed-Haseeb97/Task-Arrangement-App)** — A high-efficiency task orchestration engine designed to streamline workflow scheduling and maximize daily execution metrics.
 
 ---
 
