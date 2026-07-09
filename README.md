@@ -1,4 +1,4 @@
-# Hi, I'm Haseeb <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MxYmNlM2RkM2Y0MmY3ZGRkM2YyYTM5NDM3YjFjZTY0MmY0ZGRkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3R4PWcmY3Q9cw/WUlNhbTEMHYXEFstfj/giphy.gif" width="35">
+# Hi, I'm Syed <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MxYmNlM2RkM2Y0MmY3ZGRkM2YyYTM5NDM3YjFjZTY0MmY0ZGRkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3R4PWcmY3Q9cw/WUlNhbTEMHYXEFstfj/giphy.gif" width="35">
 
 ### Founder • Full-Stack Developer
 
