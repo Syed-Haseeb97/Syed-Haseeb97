@@ -101,10 +101,6 @@ Beyond GoNest, I enjoy building products inspired by problems I encounter in eve
 
 ---
 
-## 🤝 Collaboration & Networking
-
-I'm always excited to connect with founders, developers, and engineers working on challenging problems in software, automation, AI, and scalable systems. If you're building something meaningful or just enjoy discussing technology, let's connect.
-
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Syed-Haseeb97&label=Profile%20Views&color=2ea44f&style=flat-square"/>
 </p>
