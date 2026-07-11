@@ -97,9 +97,6 @@ Building the orchestration layer for modern urban transit. GoNest automates pred
 Beyond GoNest, I enjoy building products inspired by problems I encounter in everyday life, exploring AI-assisted software engineering, and experimenting with modern technologies to create practical, production-ready applications.
 
 - **[Task Arrangement App](https://github.com/Syed-Haseeb97/Task-Arrangement-App)** — A modern productivity platform featuring Kanban workflows, Google Calendar & Tasks integration, voice-powered task creation, motivational workflows, and responsive UI.
-- **Nexa (In Progress)** — A personal finance platform built with React and FastAPI, featuring budgeting, analytics, AI-powered insights, PDF reporting, and a premium user experience.
-
----
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Syed-Haseeb97&label=Profile%20Views&color=2ea44f&style=flat-square"/>
