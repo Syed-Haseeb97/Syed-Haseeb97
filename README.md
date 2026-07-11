@@ -1,6 +1,5 @@
 # Hi, I'm Haseeb<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MxYmNlM2RkM2Y0MmY3ZGRkM2YyYTM5NDM3YjFjZTY0MmY0ZGRkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3R4PWcmY3Q9cw/WUlNhbTEMHYXEFstfj/giphy.gif" width="35">
 
-### Founder 
 
 I build production-grade web applications, map-centric systems, and intelligent automation with a founder's mindset—focusing on scalability, rapid execution, and solving real-world problems I've personally experienced. I embrace AI as an engineering tool to accelerate development, iterate faster, and explore ideas, while ensuring I deeply understand, refine, and own every system I build.
 
