@@ -5,7 +5,7 @@ I build production-grade web applications, map-centric systems, and intelligent 
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/syed-haseeb-bukhari-a6a6961a8" target="_blank">
