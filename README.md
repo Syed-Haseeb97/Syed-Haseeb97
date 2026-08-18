@@ -101,3 +101,10 @@ Beyond GoNest, I enjoy building products inspired by problems I encounter in eve
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Syed-Haseeb97&label=Profile%20Views&color=2ea44f&style=flat-square"/>
 </p>
+
+
+---
+
+## Working with me
+
+I value practical feedback, clear problem statements, and small, reviewable improvements. If you are interested in collaborating, open an issue or reach out through one of the contact links above with the project context and the outcome you have in mind.
