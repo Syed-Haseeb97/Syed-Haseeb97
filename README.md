@@ -50,19 +50,14 @@ Building the orchestration layer for modern urban transit. GoNest automates pred
 
 #### 💻 Engineering
 
-- React
-- TypeScript
 - Python
 - FastAPI
 - Tailwind CSS
-- Firebase
-- Node.js
 
 #### 🗺️ Data & APIs
 
 - Google Maps API
 - REST APIs
-- Spatial Computing
 - Database Design
 
 </td>
