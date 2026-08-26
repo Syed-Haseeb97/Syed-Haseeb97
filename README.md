@@ -74,20 +74,6 @@ I am especially interested in the engineering layer behind useful AI agents:
 
 ---
 
-## 🚀 Other Things I'm Building
-
-### **[GoNest](https://github.com/Syed-Haseeb97/GoNest)**
-
-A subscription-based recurring commute platform focused on route grouping, scheduling, spatial optimization, and intelligent dispatch planning.
-
-GoNest remains an important product-engineering project, but my **main technical direction is now AI agents and agentic automation**.
-
-### **[Task Arrangement App](https://github.com/Syed-Haseeb97/Task-Arrangement-App)**
-
-A productivity platform exploring task management, calendar integration, voice-powered task creation, and automation-driven workflows.
-
----
-
 ## 🔭 What I'm Exploring Next
 
 **AI agents that can:**
