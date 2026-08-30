@@ -60,18 +60,6 @@ I am especially interested in the engineering layer behind useful AI agents:
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### Core areas
-
-| Area | Focus |
-|---|---|
-| 🤖 AI Agents | LLMs, tool use, reasoning, orchestration |
-| 🖥️ Computer Use | Screens, mouse, keyboard, Windows actions |
-| 🌐 Browser Agents | Playwright, Chromium, web workflows |
-| 🎙️ Voice AI | Speech recognition, TTS, wake words |
-| 🧠 Memory | Context, preferences, persistent state |
-| ⚙️ Backend | Python, FastAPI, APIs, automation |
-| 🚀 Product | System design, MVPs, real-world workflows |
-
 ---
 
 ## 🔭 What I'm Exploring Next
