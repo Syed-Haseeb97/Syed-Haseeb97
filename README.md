@@ -25,21 +25,6 @@ I'm interested in the engineering behind agents that can **perceive → reason �
 
 ---
 
-## 🌍 Open Source
-
-I'm actively learning open-source development by contributing to real-world projects and working through GitHub issues and pull requests.
-
-### Recent activity
-
-- 🔧 Contributing to **[Gutenberg](https://github.com/Syed-Haseeb97/gutenberg)** and working through upstream issues/PRs
-- 🛠️ Working on **[Paramiko](https://github.com/Syed-Haseeb97/paramiko)** and exploring contribution workflows in a mature Python project
-- 🤝 Contributing to **[career-ops](https://github.com/Syed-Haseeb97/career-ops)** through issue-driven development and pull requests
-- 🧹 Maintaining and improving my own projects, including **[ai_agent](https://github.com/Syed-Haseeb97/ai_agent)**
-
-> I'm focusing on **real contributions over artificial activity** — understanding an existing codebase, making useful changes, responding to reviews, and getting comfortable with the full PR workflow.
-
----
-
 ## 🧠 Areas I'm Exploring
 
 - AI agents & agent orchestration
