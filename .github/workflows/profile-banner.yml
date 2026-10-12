@@ -1,0 +1,50 @@
+name: Generate animated profile banner
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "assets/plasma-header.svg"
+      - "scripts/generate_profile_banner.py"
+      - ".github/workflows/profile-banner.yml"
+      - "README.md"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-gif:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install image tools
+        run: python -m pip install --upgrade cairosvg pillow
+
+      - name: Generate looping typing GIF
+        run: python scripts/generate_profile_banner.py
+
+      - name: Commit GIF if it changed
+        run: |
+          if git diff --quiet -- assets/plasma-header.gif && git ls-files --error-unmatch assets/plasma-header.gif >/dev/null 2>&1; then
+            echo "Banner GIF is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/plasma-header.gif
+          if git diff --cached --quiet; then
+            echo "No GIF changes to commit."
+            exit 0
+          fi
+          git commit -m "Generate animated profile banner GIF"
+          git push
