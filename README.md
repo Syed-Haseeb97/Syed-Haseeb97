@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/plasma-header.svg" width="100%" alt="Haseeb — independently curious, intentionally built"/>
+<img src="assets/plasma-header.gif" width="100%" alt="Haseeb — animated typing cursor, independently curious and intentionally built"/>
 
 <p>
   <a href="https://github.com/Syed-Haseeb97"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_CODE-101018?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
