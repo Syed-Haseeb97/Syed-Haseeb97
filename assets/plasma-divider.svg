@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" role="img" aria-label="Animated purple and cyan plasma divider">
+  <defs>
+    <linearGradient id="plasma" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset=".25" stop-color="#a855f7"/>
+      <stop offset=".55" stop-color="#c4b5fd"/>
+      <stop offset=".78" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <path d="M0 17 C140 17 160 6 300 17 S520 28 650 17 S900 5 1200 17" fill="none" stroke="url(#plasma)" stroke-width="5" opacity=".45" filter="url(#blur)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 17 C140 17 160 6 300 17 S520 28 650 17 S900 5 1200 17;M0 17 C140 17 160 28 300 17 S520 5 650 17 S900 28 1200 17;M0 17 C140 17 160 6 300 17 S520 28 650 17 S900 5 1200 17"/>
+  </path>
+  <path d="M0 17 C140 17 160 6 300 17 S520 28 650 17 S900 5 1200 17" fill="none" stroke="url(#plasma)" stroke-width="1.5">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 17 C140 17 160 6 300 17 S520 28 650 17 S900 5 1200 17;M0 17 C140 17 160 28 300 17 S520 5 650 17 S900 28 1200 17;M0 17 C140 17 160 6 300 17 S520 28 650 17 S900 5 1200 17"/>
+  </path>
+</svg>

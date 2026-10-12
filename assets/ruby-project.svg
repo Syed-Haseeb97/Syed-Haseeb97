@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="270" viewBox="0 0 640 270" role="img" aria-labelledby="t d">
+<title id="t">Ruby — AI desktop companion</title><desc id="d">A custom dark technical illustration of a plasma orb connected to desktop workflow nodes.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080711"/><stop offset="1" stop-color="#101020"/></linearGradient>
+ <radialGradient id="orb"><stop stop-color="#f5eaff"/><stop offset=".16" stop-color="#d8b4fe"/><stop offset=".4" stop-color="#9333ea"/><stop offset=".72" stop-color="#4c1d95"/><stop offset="1" stop-color="#100b20"/></radialGradient>
+ <linearGradient id="line"><stop stop-color="#8b5cf6" stop-opacity=".1"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee" stop-opacity=".25"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#a78bfa" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="640" height="270" rx="14" fill="url(#bg)"/><rect width="640" height="270" rx="14" fill="url(#grid)"/>
+<g stroke="url(#line)" stroke-width="1.4" fill="none"><path d="M75 70H155L190 105H235"/><path d="M65 208H155L195 168H236"/><path d="M400 92H450L478 64H560"/><path d="M405 174H456L480 198H566"/></g>
+<g fill="#111122" stroke="#8b5cf6" stroke-opacity=".8"><rect x="36" y="48" width="94" height="42" rx="7"/><rect x="30" y="188" width="110" height="40" rx="7"/><rect x="500" y="42" width="102" height="42" rx="7"/><rect x="502" y="187" width="100" height="42" rx="7"/></g>
+<g font-family="monospace" font-size="10" fill="#c4b5fd"><text x="49" y="73">LISTEN()</text><text x="42" y="212">OBSERVE()</text><text x="514" y="67">THINK()</text><text x="514" y="212">ACT()</text></g>
+<g transform="translate(320 133)"><circle r="91" fill="#7c3aed" opacity=".16" filter="url(#glow)"/><circle r="71" fill="none" stroke="#a78bfa" stroke-opacity=".5" stroke-dasharray="3 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/></circle><ellipse rx="84" ry="31" fill="none" stroke="#22d3ee" stroke-width="1.5" transform="rotate(-28)"><animateTransform attributeName="transform" type="rotate" from="-28" to="332" dur="16s" repeatCount="indefinite"/></ellipse><circle r="47" fill="url(#orb)" filter="url(#glow)"><animate attributeName="r" values="44;48;44" dur="4s" repeatCount="indefinite"/></circle><path d="M-22 -8C-9 -35 23 -24 25 -4S8 17 4 27S-25 18 -22 -8Z" fill="none" stroke="#f5eaff" stroke-width="2" filter="url(#glow)"/></g>
+<g font-family="monospace" fill="#94a3b8" font-size="10" letter-spacing="2"><text x="20" y="25">RUBY // DESKTOP AGENT</text><text x="620" y="250" text-anchor="end">PYTHON · GEMINI · WINDOWS</text></g>
+<rect x=".5" y=".5" width="639" height="269" rx="13.5" fill="none" stroke="#a78bfa" stroke-opacity=".4"/>
+</svg>
