@@ -25,7 +25,7 @@
     <circle r="94" fill="none" stroke="#22d3ee" stroke-opacity=".18" stroke-dasharray="2 10"/>
     <ellipse rx="120" ry="43" fill="none" stroke="#a855f7" stroke-width="1.6" stroke-opacity=".85" filter="url(#glow)" transform="rotate(-28)"><animateTransform attributeName="transform" type="rotate" from="-28" to="332" dur="18s" repeatCount="indefinite"/></ellipse>
     <ellipse rx="105" ry="54" fill="none" stroke="#22d3ee" stroke-width="1.4" stroke-opacity=".85" transform="rotate(55)"><animateTransform attributeName="transform" type="rotate" from="55" to="-305" dur="14s" repeatCount="indefinite"/></ellipse>
-    <ellipse rx="77" ry="28" fill="none" stroke="#e9d5ff" stroke-width=".8" stroke-opacity=".5" transform="rotate(82)"/>
+    <ellipse rx="77" ry="28" fill="none" stroke="#e9d5ff" stroke-width=".8" stroke-opacity=".5" transform="rotate(82)"><animateTransform attributeName="transform" type="rotate" from="82" to="442" dur="22s" repeatCount="indefinite"/></ellipse>
     <circle r="70" fill="#7c3aed" opacity=".25" filter="url(#haze)"/>
     <circle r="56" fill="url(#core)" filter="url(#glow)"><animate attributeName="r" values="53;58;53" dur="4s" repeatCount="indefinite"/></circle>
     <path d="M-34 -12C-20 -45 19 -39 34 -13S16 13 10 32S-28 31 -34 -12Z" fill="none" stroke="#f5eaff" stroke-width="2.2" stroke-opacity=".85" filter="url(#glow)"><animate attributeName="d" dur="7s" repeatCount="indefinite" values="M-34 -12C-20 -45 19 -39 34 -13S16 13 10 32S-28 31 -34 -12Z;M-29 -24C-3 -43 37 -20 28 4S-2 40 -23 19S-40 -3 -29 -24Z;M-34 -12C-20 -45 19 -39 34 -13S16 13 10 32S-28 31 -34 -12Z"/></path>
@@ -35,7 +35,8 @@
   </g>
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
     <text x="72" y="72" fill="#a78bfa" font-size="12" font-weight="700" letter-spacing="4">INDEPENDENTLY CURIOUS. INTENTIONALLY BUILT.</text>
-    <text x="66" y="159" fill="#f8fafc" font-size="78" font-weight="800" letter-spacing="-3">HASEEB<tspan fill="#67e8f9">.</tspan></text>
+    <text x="66" y="159" fill="#f8fafc" font-size="78" font-weight="800" letter-spacing="-3" aria-label="Haseeb"><tspan opacity="0">H<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.06;.10;.62;.66;1" dur="8s" repeatCount="indefinite"/></tspan><tspan opacity="0">a<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.10;.14;.56;.60;1" dur="8s" repeatCount="indefinite"/></tspan><tspan opacity="0">s<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.14;.18;.50;.54;1" dur="8s" repeatCount="indefinite"/></tspan><tspan opacity="0">e<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.18;.22;.44;.48;1" dur="8s" repeatCount="indefinite"/></tspan><tspan opacity="0">e<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.22;.26;.38;.42;1" dur="8s" repeatCount="indefinite"/></tspan><tspan opacity="0">b<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.26;.30;.32;.36;1" dur="8s" repeatCount="indefinite"/></tspan></text>
+    <rect x="66" y="102" width="4" height="65" rx="1" fill="#67e8f9" filter="url(#glow)"><animate attributeName="x" values="66;123;166;204;247;290;336;290;247;204;166;123;66" keyTimes="0;.06;.10;.14;.18;.22;.26;.38;.44;.50;.56;.62;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;0;1" keyTimes="0;.42;.46;.50;.54;.58;.62;.66;.70;.74;.78;.82;.86;.90;.93;.96;1" dur="8s" repeatCount="indefinite"/></rect>
     <path d="M72 180H330" stroke="url(#beam)" stroke-width="2" opacity=".9"/>
     <text x="72" y="218" fill="#e9d5ff" font-size="20" font-weight="600">CS undergraduate · IIIT Tiruchirappalli</text>
     <text x="72" y="250" fill="#cbd5e1" font-size="15">AI agents / Python systems / developer tools</text>
