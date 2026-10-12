@@ -1,114 +1,174 @@
 <div align="center">
 
-<img src="assets/plasma-header.svg" alt="Haseeb — independently curious, intentionally built" width="100%"/>
+<img src="assets/plasma-header.svg" width="100%" alt="Haseeb — independently curious, intentionally built"/>
 
 <p>
-  <a href="https://github.com/Syed-Haseeb97"><img src="https://img.shields.io/badge/GITHUB-SYED--HASEEB97-0b0b12?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"/></a>
-  <a href="https://www.linkedin.com/in/syed-haseeb-bukhari-a6a6961a"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0b0b12?style=flat-square&logo=linkedin&logoColor=67e8f9" alt="LinkedIn"/></a>
-  <a href="mailto:syed424892@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-0b0b12?style=flat-square&logo=gmail&logoColor=c4b5fd" alt="Email"/></a>
+  <a href="https://github.com/Syed-Haseeb97"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_CODE-101018?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/syed-haseeb-bukhari-a6a6961a"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-101018?style=for-the-badge&logo=linkedin&logoColor=67e8f9" alt="LinkedIn"/></a>
+  <a href="mailto:syed424892@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-101018?style=for-the-badge&logo=gmail&logoColor=c4b5fd" alt="Email"/></a>
 </p>
 
-**Computer Science @ IIIT Tiruchirappalli**  
-*AI agents · Python systems · developer tools*
+**Computer Science undergraduate · IIIT Tiruchirappalli**
+
+*Building software that feels thoughtful, not just functional.*
 
 </div>
 
-<img src="assets/plasma-divider.svg" alt="" width="100%"/>
-
-## 01 — The person behind the commits
-
-Hey, I'm **Haseeb**. I’m interested in the gap between a cool demo and software that holds up when people actually use it.
-
-I enjoy exploring unfamiliar codebases, tracing awkward bugs, building practical tools, and tightening the details that make software feel reliable. Right now, I’m especially drawn to **AI agents, desktop automation, Python engineering, and test-driven iteration**.
-
-> **Curiosity is the spark. Shipping is the discipline.**
-
-## 02 — Current work
+<img src="assets/plasma-divider.svg" width="100%" alt=""/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### <a href="https://github.com/Syed-Haseeb97/ai_agent">◉ Ruby</a>
+## / 00 — The signal
 
-**AI desktop assistant · Python**
+I'm **Haseeb** — a CSE student drawn to the intersection of **AI agents, Python engineering, desktop automation, and developer experience**.
 
-A personal Windows assistant exploring how perception, reasoning, and desktop actions can work together.
+I like the whole loop: understand an unfamiliar system, find the real failure, make a focused change, and test whether it actually holds up. I care about the invisible work behind good software: edge cases, lifecycle behavior, clear interfaces, and honest verification.
 
-- Floating plasma-orb interface
-- Gemini-powered assistance
-- Voice, screen awareness, and desktop workflows
-- Reliability, lifecycle, and UI interaction fixes
-
-<p><sub>FOCUS / AI AGENTS · DESKTOP UX · AUTOMATION</sub></p>
+Currently sharpening my engineering fundamentals by building, debugging, and contributing to real codebases.
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### <a href="https://github.com/Syed-Haseeb97/quit_addiction">◈ Quit Addiction</a>
+### CURRENT OPERATING MODE
 
-**Android · digital wellbeing experiment**
+| | |
+|:--|:--|
+| **Learning** | Python · testing · systems |
+| **Exploring** | AI-assisted desktop workflows |
+| **Building** | Tools with a clear purpose |
+| **Approach** | Reproduce → fix → verify |
 
-An Instagram experience designed to keep attention on direct messages and reduce feed-driven distractions.
+<br/>
 
-- DM-focused WebView experience
-- Reels and feed navigation constraints
-- UI behavior refinement
-- Regression testing and install/build troubleshooting
-
-<p><sub>FOCUS / ANDROID · UX · BEHAVIOR TESTING</sub></p>
+<sub>NOT HERE TO COLLECT BADGES. HERE TO GET BETTER AT THE WORK.</sub>
 
 </td>
 </tr>
 </table>
 
-## 03 — The toolkit
+<img src="assets/plasma-divider.svg" width="100%" alt=""/>
+
+## / 01 — Selected builds
+
+These are ongoing engineering experiments. The goal isn't to pretend they're finished products; it's to make them more useful and reliable with every iteration.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Syed-Haseeb97/ai_agent"><img src="assets/ruby-project.svg" width="100%" alt="Ruby — a plasma orb surrounded by desktop system nodes"/></a>
+
+### <a href="https://github.com/Syed-Haseeb97/ai_agent">Ruby / AI desktop companion ↗</a>
+
+<sub>PYTHON · GEMINI · WINDOWS · UI ENGINEERING</sub>
+
+A personal desktop assistant exploring how an AI can move from conversation toward useful on-screen workflows.
+
+- A floating plasma-orb interface with a distinct visual identity
+- Voice, screen context, and desktop interaction experiments
+- Reliability work around popup behavior, lifecycle, and input handling
+- Small, testable fixes instead of sweeping rewrites
+
+<p><a href="https://github.com/Syed-Haseeb97/ai_agent">OPEN REPOSITORY →</a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Syed-Haseeb97/quit_addiction"><img src="assets/focus-project.svg" width="100%" alt="Quit Addiction — a minimal mobile interface focused on direct messages"/></a>
+
+### <a href="https://github.com/Syed-Haseeb97/quit_addiction">Quit Addiction / Focus-first Android ↗</a>
+
+<sub>ANDROID · WEBVIEW · UX · REGRESSION TESTING</sub>
+
+A digital-wellbeing experiment that reshapes Instagram access around direct messages instead of the endless feed.
+
+- DM-focused navigation and WebView behavior
+- Attempts to prevent accidental entry into distracting surfaces
+- Interface preferences and interaction details
+- Regression checks for navigation and build/install issues
+
+<p><a href="https://github.com/Syed-Haseeb97/quit_addiction">OPEN REPOSITORY →</a></p>
+
+</td>
+</tr>
+</table>
+
+## / 02 — The workshop
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,qt,android,git,github,githubactions,windows&theme=dark" alt="Python, FastAPI, Qt, Android, Git, GitHub, GitHub Actions and Windows" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AI-Gemini-171324?style=flat-square&logo=googlegemini&logoColor=c4b5fd" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Browser-Automation-171324?style=flat-square&logo=playwright&logoColor=67e8f9" alt="Browser automation"/>
-<img src="https://img.shields.io/badge/Quality-Tests%20%26%20Debugging-171324?style=flat-square&logo=pytest&logoColor=a7f3d0" alt="Testing and debugging"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,qt,android,git,github,githubactions,windows&theme=dark" alt="Python, FastAPI, Qt, Android, Git, GitHub Actions and Windows" />
 
 </div>
 
-I’m still learning, and I like it that way. My current focus is getting stronger at **Python engineering, automated testing, debugging, and designing reliable AI-assisted workflows**.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 04 — Open-source mindset
+**01 / Build**
 
-I value the unglamorous parts of contributing: understand the existing behavior, reproduce the issue, make a focused change, and test the edges.
+Python, API fundamentals, desktop interfaces, Android experiments, and practical automation.
 
-- [openzim / gutenberg](https://github.com/openzim/gutenberg) — exploring an established open-source codebase.
-- [career-ops / career-ops](https://github.com/career-ops/career-ops) — workflow and test improvements.
-- [All public repositories](https://github.com/Syed-Haseeb97?tab=repositories) · [Contribution activity](https://github.com/Syed-Haseeb97?tab=contributions)
+</td>
+<td width="33%" valign="top">
 
-## 05 — GitHub telemetry
+**02 / Investigate**
+
+Reproducing bugs, reading unfamiliar code, tracing UI state, and understanding failure modes.
+
+</td>
+<td width="33%" valign="top">
+
+**03 / Verify**
+
+Focused tests, regression checks, CI feedback, and checking behavior rather than assuming it works.
+
+</td>
+</tr>
+</table>
+
+<sub>ALSO EXPLORING: GEMINI-POWERED WORKFLOWS · BROWSER AUTOMATION · OPEN-SOURCE MAINTENANCE</sub>
+
+<img src="assets/plasma-divider.svg" width="100%" alt=""/>
+
+## / 03 — Outside my own repos
+
+I’m interested in contributing where it matters: learning an existing project's conventions, keeping changes narrow, and leaving the codebase easier to trust.
+
+- **[openzim / gutenberg ↗](https://github.com/openzim/gutenberg)** — exploring and working within an established open-source project.
+- **[career-ops / career-ops ↗](https://github.com/career-ops/career-ops)** — workflow and test-focused improvements.
+- **[Browse all repositories ↗](https://github.com/Syed-Haseeb97?tab=repositories)** — the full, evolving workshop.
+- **[Contribution activity ↗](https://github.com/Syed-Haseeb97?tab=contributions)** — work in progress, not just polished snapshots.
+
+## / 04 — Live telemetry
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Syed-Haseeb97&show_icons=true&hide_border=true&bg_color=080811&title_color=c4b5fd&text_color=cbd5e1&icon_color=67e8f9&ring_color=a78bfa&include_all_commits=true" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Haseeb97&layout=compact&hide_border=true&bg_color=080811&title_color=c4b5fd&text_color=cbd5e1&langs_count=6" alt="Most-used languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Syed-Haseeb97&show_icons=true&hide_border=true&hide_title=true&bg_color=080811&title_color=c4b5fd&text_color=cbd5e1&icon_color=67e8f9&ring_color=a78bfa&include_all_commits=true" alt="GitHub activity statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Haseeb97&layout=compact&hide_border=true&hide_title=true&bg_color=080811&title_color=c4b5fd&text_color=cbd5e1&langs_count=6" alt="Most-used programming languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Syed-Haseeb97&hide_border=true&background=080811&ring=a78bfa&fire=67e8f9&currStreakLabel=c4b5fd&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="GitHub contribution streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Syed-Haseeb97&hide_border=true&background=080811&ring=a78bfa&fire=67e8f9&currStreakLabel=c4b5fd&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="GitHub contribution streak"/>
 </div>
 
-<img src="assets/plasma-divider.svg" alt="" width="100%"/>
+<sub>Stats are provided by external services and may occasionally be unavailable or delayed.</sub>
+
+<img src="assets/plasma-divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
-### Want to build something useful?
+### The best way to learn is to ship, inspect, and ship again.
 
-<a href="https://www.linkedin.com/in/syed-haseeb-bukhari-a6a6961a">LinkedIn</a> &nbsp;·&nbsp;
+**Have a useful problem to solve? Let's talk.**
+
+<a href="https://www.linkedin.com/in/syed-haseeb-bukhari-a6a6961a">LINKEDIN</a> &nbsp;·&nbsp;
 <a href="https://x.com/its_Haseebexe">X</a> &nbsp;·&nbsp;
-<a href="mailto:syed424892@gmail.com">Email me</a>
+<a href="mailto:syed424892@gmail.com">EMAIL</a>
 
 <br/>
 
-<sub>MADE WITH CURIOSITY · REFINED THROUGH ITERATION</sub>
+<sub>HASEEB / CSE · IIIT TIRUCHIRAPPALLI / END OF TRANSMISSION</sub>
 
 </div>
