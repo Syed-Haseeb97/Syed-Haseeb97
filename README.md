@@ -22,7 +22,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## / 00 — The signal
+## / 00 — About me
 
 I'm **Haseeb** — a CSE student drawn to the intersection of **AI agents, Python engineering, desktop automation, and developer experience**.
 
@@ -135,19 +135,24 @@ Focused tests, regression checks, CI feedback, and checking behavior rather than
 
 <img src="assets/plasma-divider.svg" width="100%" alt=""/>
 
-## / 03 — Outside my own repos
+## / 03 — Contributing to open source
 
-I’m interested in contributing where it matters: learning an existing project's conventions, keeping changes narrow, and leaving the codebase easier to trust.
+I’ve contributed to **4+ open-source repositories**, learning existing project conventions and helping improve code through focused fixes, testing, and workflow improvements.
 
-- **[openzim / gutenberg ↗](https://github.com/openzim/gutenberg)** — exploring and working within an established open-source project.
-- **[career-ops / career-ops ↗](https://github.com/career-ops/career-ops)** — workflow and test-focused improvements.
-- **[Browse all repositories ↗](https://github.com/Syed-Haseeb97?tab=repositories)** — the full, evolving workshop.
-- **[Contribution activity ↗](https://github.com/Syed-Haseeb97?tab=contributions)** — work in progress, not just polished snapshots.
+I enjoy working in unfamiliar codebases, keeping changes purposeful, and verifying that a fix actually works.
 
 ## / 04 — Live telemetry
 
 <div align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Syed-Haseeb97&show_icons=true&hide=stars&hide_border=true&hide_title=true&bg_color=080811&title_color=c4b5fd&text_color=cbd5e1&icon_color=67e8f9&ring_color=a78bfa&include_all_commits=true" alt="GitHub activity statistics, excluding stars earned"/>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Syed-Haseeb97&show_icons=true&hide=stars&hide_rank=true&hide_border=true&hide_title=true&bg_color=080811&title_color=c4b5fd&text_color=cbd5e1&icon_color=67e8f9&ring_color=a78bfa&include_all_commits=true" alt="GitHub activity statistics, with rank and stars hidden"/>
+</div>
+
+### 2025 CONTRIBUTION TOTALS
+
+<div align="center">
+  <img src="https://img.shields.io/badge/COMMITS-0-101018?style=for-the-badge&labelColor=101018&color=67e8f9" alt="2025 commits: 0"/>
+  <img src="https://img.shields.io/badge/PULL_REQUESTS-0-101018?style=for-the-badge&labelColor=101018&color=a78bfa" alt="2025 pull requests: 0"/>
+  <img src="https://img.shields.io/badge/ISSUES-0-101018?style=for-the-badge&labelColor=101018&color=67e8f9" alt="2025 issues: 0"/>
 </div>
 
 <div align="center">
@@ -164,9 +169,11 @@ I’m interested in contributing where it matters: learning an existing project'
 
 **Have a useful problem to solve? Let's talk.**
 
-<a href="https://www.linkedin.com/in/syed-haseeb-bukhari-a6a6961a">LINKEDIN</a> &nbsp;·&nbsp;
-<a href="https://x.com/its_Haseebexe">X</a> &nbsp;·&nbsp;
-<a href="mailto:syed424892@gmail.com">EMAIL</a>
+<a href="https://www.linkedin.com/in/syed-haseeb-bukhari-a6a6961a"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+&nbsp;
+<a href="https://x.com/its_Haseebexe"><img src="https://img.shields.io/badge/FOLLOW_ON_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"/></a>
+&nbsp;
+<a href="mailto:syed424892@gmail.com"><img src="https://img.shields.io/badge/EMAIL-MESSAGE_ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
 
 <br/>
 
