@@ -12,6 +12,8 @@
 
 *Building software that feels thoughtful, not just functional.*
 
+<img src="assets/cyber-critter.svg" width="100%" alt="An animated little plasma robot exploring a neon rail"/>
+
 </div>
 
 <img src="assets/plasma-divider.svg" width="100%" alt=""/>
