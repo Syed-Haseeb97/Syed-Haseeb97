@@ -1,10 +1,61 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="270" viewBox="0 0 640 270" role="img" aria-labelledby="t d">
-<title id="t">Quit Addiction — focus-first Android</title><desc id="d">A minimal phone interface showing a focused direct-message inbox while distracting app surfaces fade away.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b12"/><stop offset="1" stop-color="#0d1420"/></linearGradient><linearGradient id="cyan"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#67e8f9" stroke-opacity=".06"/></pattern></defs>
+<title id="t">Quit Addiction — focus-first Android</title>
+<desc id="d">An animated focus-first mobile interface. Distracting app panels slide out from behind the central phone while the direct-message inbox gently floats and pulses.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b12"/><stop offset="1" stop-color="#0d1420"/></linearGradient>
+ <linearGradient id="cyan"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+ <linearGradient id="trail"><stop stop-color="#a78bfa" stop-opacity="0"/><stop offset=".55" stop-color="#67e8f9" stop-opacity=".85"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#67e8f9" stroke-opacity=".06"/></pattern>
+</defs>
 <rect width="640" height="270" rx="14" fill="url(#bg)"/><rect width="640" height="270" rx="14" fill="url(#grid)"/>
 <g font-family="monospace" fill="#94a3b8" font-size="10" letter-spacing="2"><text x="20" y="25">QUIT ADDICTION // FOCUS MODE</text><text x="620" y="250" text-anchor="end">ANDROID · WEBVIEW · UX</text></g>
-<g opacity=".3" transform="translate(96 72) rotate(-9)"><rect width="110" height="150" rx="13" fill="#121323" stroke="#a78bfa"/><rect x="12" y="24" width="86" height="12" rx="4" fill="#8b5cf6"/><rect x="12" y="47" width="86" height="42" rx="6" fill="#312e81"/><rect x="12" y="98" width="86" height="42" rx="6" fill="#1e293b"/></g>
-<g transform="translate(248 36)"><rect width="150" height="202" rx="20" fill="#05070c" stroke="#67e8f9" stroke-opacity=".75" stroke-width="1.5" filter="url(#glow)"/><rect x="7" y="8" width="136" height="186" rx="14" fill="#0b111a"/><rect x="54" y="13" width="42" height="4" rx="2" fill="#334155"/><text x="18" y="42" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#f8fafc">Messages</text><circle cx="125" cy="38" r="5" fill="#22d3ee"/><g fill="#111e2b" stroke="#334155" stroke-width=".6"><rect x="15" y="54" width="120" height="34" rx="8"/><rect x="15" y="94" width="120" height="34" rx="8"/><rect x="15" y="134" width="120" height="34" rx="8"/></g><g fill="#67e8f9"><circle cx="29" cy="71" r="6"/><circle cx="29" cy="111" r="6"/><circle cx="29" cy="151" r="6"/></g><g font-family="Arial,sans-serif" fill="#e2e8f0" font-size="8.5"><text x="42" y="69">Conversation one</text><text x="42" y="79" fill="#64748b">Last message · 2m</text><text x="42" y="109">Conversation two</text><text x="42" y="119" fill="#64748b">Last message · 8m</text><text x="42" y="149">Conversation three</text><text x="42" y="159" fill="#64748b">Last message · 1h</text></g><rect x="15" y="176" width="120" height="10" rx="5" fill="#164e63"/><rect x="15" y="176" width="78" height="10" rx="5" fill="url(#cyan)"/></g>
-<g transform="translate(445 82)" font-family="monospace"><path d="M0 0H115M0 0V95M0 95H115" fill="none" stroke="#22d3ee" stroke-opacity=".6"/><text x="13" y="23" font-size="10" fill="#67e8f9">INTENTIONAL</text><text x="13" y="41" font-size="10" fill="#e2e8f0">ACCESS</text><text x="13" y="59" font-size="10" fill="#e2e8f0">OVER</text><text x="13" y="77" font-size="10" fill="#e2e8f0">INFINITE FEED</text><circle cx="102" cy="113" r="3" fill="#22d3ee" filter="url(#glow)"/></g>
+<!-- Signal trails lead out from behind the main window. -->
+<g fill="none" stroke="url(#trail)" stroke-width="1.4" stroke-dasharray="5 7">
+ <path d="M245 83H205L185 66H144"><animate attributeName="stroke-dashoffset" values="0;-48" dur="4s" repeatCount="indefinite"/></path>
+ <path d="M245 193H204L182 211H145"><animate attributeName="stroke-dashoffset" values="0;48" dur="5s" repeatCount="indefinite"/></path>
+</g>
+<!-- Distraction cards begin hidden behind the phone, then glide out to the left. -->
+<g transform="translate(210 65)" opacity="0">
+ <animate attributeName="opacity" values="0;0.62;0.62;0" keyTimes="0;.18;.76;1" dur="8s" repeatCount="indefinite"/>
+ <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;-96 0;-96 0;0 0" keyTimes="0;.18;.76;1" dur="8s" repeatCount="indefinite"/>
+ <g transform="rotate(-9 55 75)">
+  <rect width="110" height="150" rx="13" fill="#121323" stroke="#a78bfa" stroke-opacity=".9"/>
+  <rect x="12" y="15" width="86" height="12" rx="4" fill="#8b5cf6" opacity=".85"/>
+  <rect x="12" y="38" width="86" height="42" rx="6" fill="#312e81"/>
+  <rect x="12" y="89" width="86" height="42" rx="6" fill="#1e293b"/>
+  <path d="M20 52h50M20 61h34M20 101h59M20 111h43" stroke="#c4b5fd" stroke-opacity=".65" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="89" cy="21" r="3" fill="#22d3ee"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+ </g>
+</g>
+<!-- A second, quieter layer gives the emerging cards depth. -->
+<g transform="translate(205 91)" opacity="0">
+ <animate attributeName="opacity" values="0;.22;.22;0" keyTimes="0;.2;.74;1" dur="8s" repeatCount="indefinite"/>
+ <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;-70 10;-70 10;0 0" keyTimes="0;.2;.74;1" dur="8s" repeatCount="indefinite"/>
+ <rect width="88" height="118" rx="11" fill="#0b111a" stroke="#22d3ee" stroke-opacity=".8"/>
+ <rect x="10" y="16" width="68" height="10" rx="4" fill="#164e63"/>
+ <rect x="10" y="34" width="68" height="30" rx="5" fill="#172554"/>
+ <rect x="10" y="72" width="68" height="34" rx="5" fill="#1e293b"/>
+</g>
+<!-- Central focus window stays visually dominant. -->
+<g transform="translate(248 36)">
+ <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 -4;0 0;0 3;0 0" dur="6s" repeatCount="indefinite"/>
+ <rect x="-8" y="-7" width="166" height="216" rx="25" fill="#22d3ee" opacity=".06" filter="url(#glow)"/>
+ <rect width="150" height="202" rx="20" fill="#05070c" stroke="#67e8f9" stroke-opacity=".85" stroke-width="1.5" filter="url(#glow)"/>
+ <rect x="7" y="8" width="136" height="186" rx="14" fill="#0b111a"/>
+ <rect x="54" y="13" width="42" height="4" rx="2" fill="#334155"/>
+ <text x="18" y="42" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#f8fafc">Messages</text>
+ <circle cx="125" cy="38" r="5" fill="#22d3ee"><animate attributeName="r" values="4;5.5;4" dur="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".65;1;.65" dur="2.8s" repeatCount="indefinite"/></circle>
+ <g fill="#111e2b" stroke="#334155" stroke-width=".6"><rect x="15" y="54" width="120" height="34" rx="8"/><rect x="15" y="94" width="120" height="34" rx="8"/><rect x="15" y="134" width="120" height="34" rx="8"/></g>
+ <g fill="#67e8f9"><circle cx="29" cy="71" r="6"/><circle cx="29" cy="111" r="6"/><circle cx="29" cy="151" r="6"/></g>
+ <g font-family="Arial,sans-serif" fill="#e2e8f0" font-size="8.5"><text x="42" y="69">Conversation one</text><text x="42" y="79" fill="#64748b">Last message · 2m</text><text x="42" y="109">Conversation two</text><text x="42" y="119" fill="#64748b">Last message · 8m</text><text x="42" y="149">Conversation three</text><text x="42" y="159" fill="#64748b">Last message · 1h</text></g>
+ <rect x="15" y="176" width="120" height="10" rx="5" fill="#164e63"/>
+ <rect x="15" y="176" width="78" height="10" rx="5" fill="url(#cyan)"><animate attributeName="width" values="70;92;70" dur="5s" repeatCount="indefinite"/></rect>
+</g>
+<g transform="translate(445 82)" font-family="monospace">
+ <path d="M0 0H115M0 0V95M0 95H115" fill="none" stroke="#22d3ee" stroke-opacity=".6"/>
+ <text x="13" y="23" font-size="10" fill="#67e8f9">INTENTIONAL</text><text x="13" y="41" font-size="10" fill="#e2e8f0">ACCESS</text><text x="13" y="59" font-size="10" fill="#e2e8f0">OVER</text><text x="13" y="77" font-size="10" fill="#e2e8f0">INFINITE FEED</text>
+ <circle cx="102" cy="113" r="3" fill="#22d3ee" filter="url(#glow)"><animate attributeName="r" values="2;4;2" dur="2.4s" repeatCount="indefinite"/></circle>
+</g>
 <rect x=".5" y=".5" width="639" height="269" rx="13.5" fill="none" stroke="#22d3ee" stroke-opacity=".35"/>
 </svg>
