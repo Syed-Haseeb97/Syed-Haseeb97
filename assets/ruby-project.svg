@@ -2,7 +2,24 @@
 <title id="t">Ruby — AI desktop companion</title><desc id="d">A custom dark technical illustration of a plasma orb connected to desktop workflow nodes.</desc>
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080711"/><stop offset="1" stop-color="#101020"/></linearGradient>
- <radialGradient id="orb"><stop stop-color="#f5eaff"/><stop offset=".16" stop-color="#d8b4fe"/><stop offset=".4" stop-color="#9333ea"/><stop offset=".72" stop-color="#4c1d95"/><stop offset="1" stop-color="#100b20"/></radialGradient>
+ <radialGradient id="orb" cx=".34" cy=".25" r=".86">
+  <stop offset="0" stop-color="#d8c4ff"/>
+  <stop offset=".2" stop-color="#a78bfa"/>
+  <stop offset=".48" stop-color="#8b5cf6"/>
+  <stop offset=".76" stop-color="#4f46e5"/>
+  <stop offset="1" stop-color="#2563eb"/>
+</radialGradient>
+<radialGradient id="core" cx=".28" cy=".22" r=".95">
+  <stop offset="0" stop-color="#30313a"/>
+  <stop offset=".22" stop-color="#17181e"/>
+  <stop offset=".68" stop-color="#08090d"/>
+  <stop offset=".94" stop-color="#020305"/>
+  <stop offset="1" stop-color="#000000"/>
+</radialGradient>
+<linearGradient id="eye" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#ffffff"/>
+  <stop offset="1" stop-color="#cfe5ff"/>
+</linearGradient>
  <linearGradient id="line"><stop stop-color="#8b5cf6" stop-opacity=".1"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee" stop-opacity=".25"/></linearGradient>
  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#a78bfa" stroke-opacity=".08"/></pattern>
@@ -11,7 +28,49 @@
 <g stroke="url(#line)" stroke-width="1.4" fill="none"><path d="M75 70H155L190 105H235"/><path d="M65 208H155L195 168H236"/><path d="M400 92H450L478 64H560"/><path d="M405 174H456L480 198H566"/></g>
 <g fill="#111122" stroke="#8b5cf6" stroke-opacity=".8"><rect x="36" y="48" width="94" height="42" rx="7"/><rect x="30" y="188" width="110" height="40" rx="7"/><rect x="500" y="42" width="102" height="42" rx="7"/><rect x="502" y="187" width="100" height="42" rx="7"/></g>
 <g font-family="monospace" font-size="10" fill="#c4b5fd"><text x="49" y="73">LISTEN()</text><text x="42" y="212">OBSERVE()</text><text x="514" y="67">THINK()</text><text x="514" y="212">ACT()</text></g>
-<g transform="translate(320 133)"><circle r="91" fill="#7c3aed" opacity=".16" filter="url(#glow)"/><circle r="71" fill="none" stroke="#a78bfa" stroke-opacity=".5" stroke-dasharray="3 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/></circle><ellipse rx="84" ry="31" fill="none" stroke="#22d3ee" stroke-width="1.5" transform="rotate(-28)"><animateTransform attributeName="transform" type="rotate" from="-28" to="332" dur="16s" repeatCount="indefinite"/></ellipse><circle r="47" fill="url(#orb)" filter="url(#glow)"><animate attributeName="r" values="44;48;44" dur="4s" repeatCount="indefinite"/></circle><path d="M-22 -8C-9 -35 23 -24 25 -4S8 17 4 27S-25 18 -22 -8Z" fill="none" stroke="#f5eaff" stroke-width="2" filter="url(#glow)"/></g>
+<g transform="translate(320 133)">
+  <!-- Keep the portfolio's orbital framing, but render Ruby's real idle character. -->
+  <circle r="91" fill="#7c3aed" opacity=".16" filter="url(#glow)"/>
+  <circle r="71" fill="none" stroke="#a78bfa" stroke-opacity=".5" stroke-dasharray="3 8">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/>
+  </circle>
+  <ellipse rx="84" ry="31" fill="none" stroke="#22d3ee" stroke-width="1.5" transform="rotate(-28)">
+    <animateTransform attributeName="transform" type="rotate" from="-28" to="332" dur="16s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Ruby's soft violet/blue liquid silhouette, gently breathing in idle. -->
+  <path d="M 0,-47
+    C 14,-48 29,-40 40,-27
+    C 49,-16 48,-2 45,10
+    C 42,25 29,39 14,45
+    C 2,50 -13,45 -25,39
+    C -39,32 -47,18 -47,3
+    C -48,-12 -39,-29 -26,-39
+    C -17,-46 -8,-46 0,-47 Z"
+    fill="url(#orb)" stroke="#a78bfa" stroke-opacity=".72" stroke-width="1.2" filter="url(#glow)">
+    <animateTransform attributeName="transform" type="scale"
+      values="1 1;1.025 0.985;1 1;0.985 1.015;1 1" dur="4.2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M -33,-27 C -23,-42 -6,-46 7,-42"
+    fill="none" stroke="#f5eaff" stroke-opacity=".45" stroke-width="2.1" stroke-linecap="round">
+    <animate attributeName="stroke-opacity" values=".25;.65;.25" dur="3.6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Distinct glossy black face core, matching LiquidBlob's idle state. -->
+  <circle r="29.6" fill="url(#core)" stroke="#555965" stroke-width="1.1"/>
+  <ellipse cx="-8" cy="-12" rx="13" ry="8" fill="#30313a" opacity=".18"/>
+
+  <!-- Ruby's two high-contrast white oval eyes. -->
+  <g fill="url(#eye)" stroke="#111018" stroke-width=".65">
+    <ellipse cx="-8.55" cy="-.4" rx="2.75" ry="6.4">
+      <animate attributeName="ry" values="6.4;.5;6.4;6.4" keyTimes="0;.025;.05;1" dur="4.15s" begin=".37s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="8.55" cy="-.4" rx="2.75" ry="6.4">
+      <animate attributeName="ry" values="6.4;.5;6.4;6.4" keyTimes="0;.025;.05;1" dur="4.15s" begin=".37s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  <circle r="47" fill="none" stroke="#ffffff" stroke-opacity=".12" stroke-width="1"/>
+</g>
 <g font-family="monospace" fill="#94a3b8" font-size="10" letter-spacing="2"><text x="20" y="25">RUBY // DESKTOP AGENT</text><text x="620" y="250" text-anchor="end">PYTHON · GEMINI · WINDOWS</text></g>
 <rect x=".5" y=".5" width="639" height="269" rx="13.5" fill="none" stroke="#a78bfa" stroke-opacity=".4"/>
 </svg>
