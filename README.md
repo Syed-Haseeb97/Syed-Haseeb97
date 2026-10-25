@@ -58,7 +58,7 @@ These are ongoing engineering experiments. The goal isn't to pretend they're fin
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <a href="https://github.com/Syed-Haseeb97/ai_agent"><img src="assets/ruby-project.svg" width="100%" alt="Ruby — a plasma orb surrounded by desktop system nodes"/></a>
 
@@ -76,24 +76,7 @@ A personal desktop assistant exploring how an AI can move from conversation towa
 <p><a href="https://github.com/Syed-Haseeb97/ai_agent">OPEN REPOSITORY →</a></p>
 
 </td>
-<td width="50%" valign="top">
 
-<a href="https://github.com/Syed-Haseeb97/quit_addiction"><img src="assets/focus-project.svg" width="100%" alt="Quit Addiction — a minimal mobile interface focused on direct messages"/></a>
-
-### <a href="https://github.com/Syed-Haseeb97/quit_addiction">Quit Addiction / Focus-first Android ↗</a>
-
-<sub>ANDROID · WEBVIEW · UX · REGRESSION TESTING</sub>
-
-A digital-wellbeing experiment that reshapes Instagram access around direct messages instead of the endless feed.
-
-- DM-focused navigation and WebView behavior
-- Attempts to prevent accidental entry into distracting surfaces
-- Interface preferences and interaction details
-- Regression checks for navigation and build/install issues
-
-<p><a href="https://github.com/Syed-Haseeb97/quit_addiction">OPEN REPOSITORY →</a></p>
-
-</td>
 </tr>
 </table>
 
