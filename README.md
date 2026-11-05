@@ -127,7 +127,7 @@ I enjoy working in unfamiliar codebases, keeping changes purposeful, and verifyi
 ## / 04 — Live telemetry
 
 <div align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Syed-Haseeb97&show_icons=true&hide=stars&hide_rank=true&hide_border=true&hide_title=true&bg_color=080811&title_color=c4b5fd&text_color=cbd5e1&icon_color=67e8f9&ring_color=a78bfa&include_all_commits=true" alt="GitHub activity statistics, with rank and stars hidden"/>
+  <img width="80%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Syed-Haseeb97&show_icons=true&hide=stars&hide_rank=true&hide_border=true&hide_title=true&bg_color=080811&title_color=c4b5fd&text_color=cbd5e1&icon_color=67e8f9&ring_color=a78bfa&include_all_commits=true" alt="GitHub activity statistics, with rank and stars hidden"/>
 </div>
 
 ### 2025 CONTRIBUTION TOTALS
