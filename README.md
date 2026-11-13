@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/haseeb_peek.svg" width="420" alt="Haseeb — coding in the chair"/>
+<img src="assets/haseeb_peek.svg?v=2" width="420" alt="Haseeb — coding in the chair"/>
 
 <br/>
 
