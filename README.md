@@ -1,165 +1,53 @@
 <div align="center">
 
-<img src="assets/plasma-header.svg" width="100%" alt="Haseeb — independently curious, intentionally built"/>
+<img src="assets/haseeb_peek.svg" width="420" alt="Haseeb — coding in the chair"/>
+
+<br/>
+
+# SYED HASEEB BUKHARI
+
+**Computer Science · IIIT Tiruchirappalli '30**
+
+building products &nbsp;·&nbsp; future entrepreneur
+
+<br/>
 
 <p>
-  <a href="https://github.com/Syed-Haseeb97"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_CODE-101018?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/syed-haseeb-bukhari-a6a6961a"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-101018?style=for-the-badge&logo=linkedin&logoColor=67e8f9" alt="LinkedIn"/></a>
-  <a href="mailto:syed424892@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-101018?style=for-the-badge&logo=gmail&logoColor=c4b5fd" alt="Email"/></a>
+  <a href="https://github.com/Syed-Haseeb97"><img src="https://img.shields.io/badge/GITHUB-101018?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/syed-haseeb-bukhari-a6a6961a"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/its_Haseebexe"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:syed424892@gmail.com"><img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-**Computer Science undergraduate · IIIT Tiruchirappalli**
-
-*Building software that feels thoughtful, not just functional.*
-
-<img src="assets/cyber-critter.svg" width="100%" alt="An animated little plasma robot exploring a neon rail"/>
-
 </div>
 
-<img src="assets/plasma-divider.svg" width="100%" alt=""/>
+---
 
-<table>
-<tr>
-<td width="58%" valign="top">
+### About
 
-## / 00 — About me
+I'm **Haseeb** — a CSE undergrad who likes building things that actually work.
 
-I'm **Haseeb** — a CSE student drawn to the intersection of **AI agents, Python engineering, desktop automation, and developer experience**.
+Drawn to the intersection of **AI agents, Python engineering, desktop automation, and developer experience**. I enjoy the full loop: understand a system, find the real failure, make a focused change, and verify it holds up.
 
-I like the whole loop: understand an unfamiliar system, find the real failure, make a focused change, and test whether it actually holds up. I care about the invisible work behind good software: edge cases, lifecycle behavior, clear interfaces, and honest verification.
+Currently sharpening fundamentals by building, debugging, and contributing to real codebases.
 
-Currently sharpening my engineering fundamentals by building, debugging, and contributing to real codebases.
+### Selected build
 
-</td>
-<td width="42%" valign="top">
+**[Ruby / AI desktop companion](https://github.com/Syed-Haseeb97/ai_agent)**  
+Personal desktop assistant exploring how an AI can move from conversation toward useful on-screen workflows. Python · Gemini · Windows · UI experiments.
 
-### CURRENT OPERATING MODE
+### Skills & focus
 
-| | |
-|:--|:--|
-| **Learning** | Python · testing · systems |
-| **Exploring** | AI-assisted desktop workflows |
-| **Building** | Tools with a clear purpose |
-| **Approach** | Reproduce → fix → verify |
+`Python` `testing` `systems` `desktop automation` `Git` `FastAPI`
 
-<br/>
+Also exploring Gemini-powered workflows, browser automation, and open-source maintenance.
 
-<sub>NOT HERE TO COLLECT BADGES. HERE TO GET BETTER AT THE WORK.</sub>
-
-</td>
-</tr>
-</table>
-
-<img src="assets/plasma-divider.svg" width="100%" alt=""/>
-
-## / 01 — Selected builds
-
-These are ongoing engineering experiments. The goal isn't to pretend they're finished products; it's to make them more useful and reliable with every iteration.
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-<a href="https://github.com/Syed-Haseeb97/ai_agent"><img src="assets/ruby-project.svg" width="100%" alt="Ruby — a plasma orb surrounded by desktop system nodes"/></a>
-
-### <a href="https://github.com/Syed-Haseeb97/ai_agent">Ruby / AI desktop companion ↗</a>
-
-<sub>PYTHON · GEMINI · WINDOWS · UI ENGINEERING</sub>
-
-A personal desktop assistant exploring how an AI can move from conversation toward useful on-screen workflows.
-
-- A floating plasma-orb interface with a distinct visual identity
-- Voice, screen context, and desktop interaction experiments
-- Reliability work around popup behavior, lifecycle, and input handling
-- Small, testable fixes instead of sweeping rewrites
-
-<p><a href="https://github.com/Syed-Haseeb97/ai_agent">OPEN REPOSITORY →</a></p>
-
-</td>
-
-</tr>
-</table>
-
-## / 02 — The workshop
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,qt,android,git,github,githubactions,windows&theme=dark" alt="Python, FastAPI, Qt, Android, Git, GitHub Actions and Windows" />
-
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**01 / Build**
-
-Python, API fundamentals, desktop interfaces, Android experiments, and practical automation.
-
-</td>
-<td width="33%" valign="top">
-
-**02 / Investigate**
-
-Reproducing bugs, reading unfamiliar code, tracing UI state, and understanding failure modes.
-
-</td>
-<td width="33%" valign="top">
-
-**03 / Verify**
-
-Focused tests, regression checks, CI feedback, and checking behavior rather than assuming it works.
-
-</td>
-</tr>
-</table>
-
-<sub>ALSO EXPLORING: GEMINI-POWERED WORKFLOWS · BROWSER AUTOMATION · OPEN-SOURCE MAINTENANCE</sub>
-
-<img src="assets/plasma-divider.svg" width="100%" alt=""/>
-
-## / 03 — Contributing to open source
-
-I’ve contributed to **4+ open-source repositories**, learning existing project conventions and helping improve code through focused fixes, testing, and workflow improvements.
-
-I enjoy working in unfamiliar codebases, keeping changes purposeful, and verifying that a fix actually works.
-
-## / 04 — Live telemetry
-
-<div align="center">
-  <img width="80%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Syed-Haseeb97&show_icons=true&hide=stars&hide_rank=true&hide_border=true&hide_title=true&bg_color=080811&title_color=c4b5fd&text_color=cbd5e1&icon_color=67e8f9&ring_color=a78bfa&include_all_commits=true" alt="GitHub activity statistics, with rank and stars hidden"/>
-</div>
-
-### 2025 CONTRIBUTION TOTALS
-
-<div align="center">
-  <img src="https://img.shields.io/badge/COMMITS-0-101018?style=for-the-badge&labelColor=101018&color=67e8f9" alt="2025 commits: 0"/>
-  <img src="https://img.shields.io/badge/PULL_REQUESTS-0-101018?style=for-the-badge&labelColor=101018&color=a78bfa" alt="2025 pull requests: 0"/>
-  <img src="https://img.shields.io/badge/ISSUES-0-101018?style=for-the-badge&labelColor=101018&color=67e8f9" alt="2025 issues: 0"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Syed-Haseeb97&hide_border=true&background=080811&ring=a78bfa&fire=67e8f9&currStreakLabel=c4b5fd&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="GitHub contribution streak"/>
-</div>
-
-<sub>Stats are provided by external services and may occasionally be unavailable or delayed.</sub>
-
-<img src="assets/plasma-divider.svg" width="100%" alt=""/>
-
-<div align="center">
-
-### The best way to learn is to ship, inspect, and ship again.
+*The best way to learn is to ship, inspect, and ship again.*
 
 **Have a useful problem to solve? Let's talk.**
-
-<a href="https://www.linkedin.com/in/syed-haseeb-bukhari-a6a6961a"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-&nbsp;
-<a href="https://x.com/its_Haseebexe"><img src="https://img.shields.io/badge/FOLLOW_ON_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"/></a>
-&nbsp;
-<a href="mailto:syed424892@gmail.com"><img src="https://img.shields.io/badge/EMAIL-MESSAGE_ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
-
-<br/>
-
-<sub>HASEEB / CSE · IIIT TIRUCHIRAPPALLI / END OF TRANSMISSION</sub>
 
 </div>
